@@ -1,4 +1,6 @@
-# PyBeginners201812
+# PythonBeginners沖縄 2018/12/23
+
+https://python-beginners-okinawa.connpass.com/event/111732/
 
 テキストマイニング入門
 
