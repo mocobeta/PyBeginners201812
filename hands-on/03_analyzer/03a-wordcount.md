@@ -9,7 +9,7 @@
 (例)
 
 ```
-$ python wordcount.py ../../data/kazeno_matasaburo_utf8.txt
+$ python wordcount.py ../data/kazeno_matasaburo_utf8.txt
 。	1071
 た	895
 て	803
@@ -27,7 +27,7 @@ $ python wordcount.py ../../data/kazeno_matasaburo_utf8.txt
 (例)
 
 ```
-$ python wordcount.py ../../data/kazeno_matasaburo_utf8.txt 名詞
+$ python wordcount.py ../data/kazeno_matasaburo_utf8.txt 名詞
 みんな	167
 三郎	134
 の	134
@@ -37,7 +37,7 @@ $ python wordcount.py ../../data/kazeno_matasaburo_utf8.txt 名詞
 ```
 
 ```
-$ python wordcount.py ../../data/kazeno_matasaburo_utf8.txt 動詞
+$ python wordcount.py ../data/kazeno_matasaburo_utf8.txt 動詞
 する	217
 いる	217
 言う	145

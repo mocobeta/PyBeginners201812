@@ -19,6 +19,6 @@ def show_wordcloud(file):
 
 if __name__ == '__main__':
     src = sys.argv[1]
-    out = 'out.txt'
-    split_text(src, 'out.txt')
+    out = 'words.txt'
+    split_text(src, out)
     show_wordcloud(out)
