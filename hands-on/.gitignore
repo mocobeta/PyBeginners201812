@@ -1,0 +1,3 @@
+venv*
+*.ttf
+answers/**/words.txt
