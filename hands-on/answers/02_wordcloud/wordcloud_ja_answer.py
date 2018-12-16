@@ -1,4 +1,4 @@
-#!/bin/bash
+# -*- coding: utf-8 -*-
 
 from janome.tokenizer import Tokenizer
 from wordcloud import WordCloud

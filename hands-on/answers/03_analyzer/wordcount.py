@@ -1,4 +1,4 @@
-#-*- encoding: utf8
+# -*- coding: utf-8 -*-
 
 from janome.tokenizer import Tokenizer
 from janome.analyzer import Analyzer
