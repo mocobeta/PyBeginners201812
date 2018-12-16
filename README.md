@@ -21,3 +21,8 @@ https://python-beginners-okinawa.connpass.com/event/111732/
 - [カスタムフィルターにチャレンジ](/hands-on/03_analyzer/03b-custom-filter.md)
 - [WordCloud 再考](/hands-on/03_analyzer/03c-wordcloud-2.md)
 
+### 重要語/キーワード抽出
+
+- (TBD) termextract でキーワード抽出
+- (TBD) BoW と TF/IDF - gensim ことはじめ
+- (TBD) バースト検知でホットキーワード抽出 - Jubatus jubaburst の紹介
