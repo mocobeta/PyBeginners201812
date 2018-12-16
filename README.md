@@ -16,5 +16,6 @@
 ### 現実のテキストと戦うために 〜前処理/後処理を知ろう〜
 
 - [まずはここから - ワードカウント](/hands-on/03_analyzer/03a-wordcount.md)
-- [WordCloud 再考](/hands-on/03_analyzer/03b-wordcloud-2.md)
+- [カスタムフィルターにチャレンジ](/hands-on/03_analyzer/03b-custom-filter.md)
+- [WordCloud 再考](/hands-on/03_analyzer/03c-wordcloud-2.md)
 
