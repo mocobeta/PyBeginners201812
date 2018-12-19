@@ -23,6 +23,6 @@ https://python-beginners-okinawa.connpass.com/event/111732/
 
 ### 重要語/キーワード抽出
 
-- (TBD) termextract でキーワード抽出
-- (TBD) BoW と TF/IDF - gensim ことはじめ
+- [termextract でキーワード抽出](/hands-on/04_extkeyword/04a_termextract.md)
+- [BoW と TF/IDF - gensim ことはじめ](/hands-on/04_extkeyword/04b_gensim_tfidf.md)
 - (TBD) バースト検知でホットキーワード抽出 - Jubatus jubaburst の紹介
