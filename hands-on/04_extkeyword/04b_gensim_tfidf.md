@@ -92,7 +92,7 @@ In [35]: corpus = corpora.MmCorpus('joel_gtd.mm')
  ('は', 5.0)]
 ```
 
-### TFIDF モデル作成と
+### TFIDF モデル作成と適用
 
 TfidfModel を作成して `tfidf` 変数に格納し，モデルを `corpus` に適用する。テキストファイル 9 行目に現れる単語の中で，tfidf 値の大きい上位10単語とその値を表示する。
 
