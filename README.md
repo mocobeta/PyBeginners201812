@@ -4,6 +4,10 @@ https://python-beginners-okinawa.connpass.com/event/111732/
 
 テキストマイニング入門
 
+## プレゼン資料
+
+[PyBeginnersOkinawa.pdf](/PyBeginnersOkinawa.pdf)
+
 ## ハンズオン
 
 ### 形態素解析 Getting Started
