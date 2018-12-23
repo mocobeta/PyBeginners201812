@@ -107,6 +107,7 @@ Graph was successfully output to lattice.gv.png
 リソース使用・性能に課題があるので，プロダクションユースでは MeCab + mecab-ipadic-neologd を使うことをおすすめします。
 
 [ここ](https://drive.google.com/drive/u/1/folders/0BynvpNc_r0kSd2NOLU01TG5MWnc) からビルド済みパッケージをダウンロード
+
 Chrome だとダウンロード時に 403 エラーになるようなので，FireFox など別のブラウザを使ってみてください。
 
 インストール
