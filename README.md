@@ -29,4 +29,4 @@ https://python-beginners-okinawa.connpass.com/event/111732/
 
 - [BoW と TF/IDF - gensim ことはじめ](/hands-on/04_extkeyword/04a_gensim_tfidf.md)
 - [termextract でキーワード抽出](/hands-on/04_extkeyword/04b_termextract.md)
-- (TBD) バースト検知でホットキーワード抽出 - Jubatus jubaburst の紹介
+- [ニュース記事からのトレンドキーワード抽出](https://qiita.com/moco_beta/items/0b0f08ed29f39544d87f) - Jubatus jubaburst の紹介
